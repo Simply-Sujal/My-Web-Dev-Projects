@@ -6,9 +6,9 @@
 }
 
 .hero {
+  background-image: url(/Images/person.jpg);
   height: 100vh;
   width: 100%;
-  background-image: url(/Images/ss.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -63,4 +63,53 @@ button {
 button:hover {
   transform: scale(1.3);
   cursor: pointer;
+}
+
+.main-head {
+  margin: 250px 400px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  /* text-align: center; */
+  font-size: 3rem;
+}
+
+h4 {
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 400;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-heading {
+  margin: 15px auto 5px auto;
+  text-align: center;
+}
+
+.abt-me {
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  width: 25%;
+  height: auto;
+  margin: 20px auto 10px 150px;
+  border-radius: 25px;
+}
+
+.para {
+  display: flex;
+  justify-content: center;
+  border: 3px solid red;
+}
+
+.main-para {
+  display: flex;
+  justify-content: center;
 }
