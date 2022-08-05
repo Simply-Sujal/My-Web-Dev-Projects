@@ -1,0 +1,25 @@
+h1{
+    /* border: 2px solid red; */
+    margin: 15px 150px 0 150px;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+    background: lightgray;
+    font-family: Helvetica;
+}
+
+.full-box{
+    border: 2px solid rgb(173, 159, 187);
+    margin: 25px 150px 0 150px;
+    padding: 3px 5px 15px 5px;
+    background: rgb(212, 207, 218);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+.full1-box{
+    border: 2px solid rgb(155, 137, 172);
+    margin: 25px 150px 0 150px;
+    padding: 3px 5px 15px 5px;
+    background: rgb(212, 207, 218);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
